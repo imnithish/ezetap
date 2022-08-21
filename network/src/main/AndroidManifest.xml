@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ Created by Nitheesh AG on 2022/8/21
+  -->
+
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.imn.network">
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+</manifest>
